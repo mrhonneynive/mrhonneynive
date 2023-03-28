@@ -4,8 +4,9 @@
 
 <h2>Currently Learning</h2>
 
-<img src="https://api.iconify.design/logos/javascript.svg" alt="JavaScript" height="30" width="30" margin-left="auto" margin-right="auto">
-
+<p align="center">
+  <img src="https://api.iconify.design/logos/javascript.svg" alt="JavaScript" height="30" width="30">
+</p>
 ***
 
 [![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhonneynive&count_private=true&show_icons=true&theme=transparent)](https://github.com/mrhonneynive/github-readme-stats)
