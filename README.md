@@ -11,7 +11,7 @@
 
 ***
 
-<h2 align="center">Skilled In</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
 
@@ -23,12 +23,12 @@
 
 ***
 
-<h2 align="center">Contact</h2>
+<h2 align="center">Please feel free to reach me at</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/hasanbalbicak"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="30"></a>
   <a href="https://hasanbalbicak.me"><img src="https://github.com/mrhonneynive/mrhonneynive.github.io/blob/main/images/honneynive-logo.jpg?raw=true" alt="Knife pierced in a honey pot logo" height="30" width="30"></a>
-  
+  <a href="mailto:hasanhuseyinbalbicak@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Mail Envelope" height="30" width="auto"></a>
 </p>
 
 ***
