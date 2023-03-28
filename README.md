@@ -17,8 +17,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrhonneynive&count_private=true&show_icons=true&theme=transparent" alt="Hasan's GitHub Stats">
-  <br>
-  ![](https://komarev.com/ghpvc/?username=mrhonneynive)
+
+  <img src="https://komarev.com/ghpvc/?username=mrhonneynive" alt="Counter of Profile Clicks">
 </div>
 <!--
 **mrhonneynive/mrhonneynive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
