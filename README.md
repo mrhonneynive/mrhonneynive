@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://api.iconify.design/logos/javascript.svg" alt="JavaScript" height="30" width="30">
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" height="30" width="30">
+  <img src="https://api.iconify.design/logos/react.svg" alt="React" height="30" width="30">
 </p>
 
 ***
@@ -17,8 +17,8 @@
 
 
 
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="30" width="30">
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" height="30" width="30">
+  <img src="https://api.iconify.design/vscode-icons/file-type-html.svg" alt="HTML" height="30" width="30">
+  <img src="https://api.iconify.design/vscode-icons/file-type-css.svg" alt="CSS" height="30" width="30">
 </p>
 
 ***
@@ -26,7 +26,7 @@
 <h2 align="center">Please feel free to reach me at</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/hasanbalbicak"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="30"></a>
+  <a href="https://linkedin.com/in/hasanbalbicak"><img src="https://api.iconify.design/logos/linkedin-icon.svg" alt="LinkedIn" height="30" width="30"></a>
   <a href="https://hasanbalbicak.me"><img src="https://github.com/mrhonneynive/mrhonneynive.github.io/blob/main/images/honneynive-logo.jpg?raw=true" alt="Knife pierced in a honey pot logo" height="30" width="30"></a>
   <a href="mailto:hasanhuseyinbalbicak@gmail.com"><img src="https://api.iconify.design/logos/google-gmail.svg" alt="Mail Envelope" height="30" width="auto"></a>
 </p>
