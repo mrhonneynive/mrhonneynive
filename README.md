@@ -1,6 +1,6 @@
 # Hasan Balbıçak | Software Engineering Freshman
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning <img src="https://api.iconify.design/logos/javascript.svg" alt="JavaScript" height="30" width="30">
 
 [![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhonneynive&count_private=true&show_icons=true&theme=transparent)](https://github.com/mrhonneynive/github-readme-stats)
 
