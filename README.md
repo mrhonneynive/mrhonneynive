@@ -13,6 +13,11 @@
 
 <h2 align="center">Technologies I know</h2>
 
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="30" width="30">
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" height="30" width="30">
+</p>
+
 ***
 
 <div align="center">
