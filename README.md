@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/hasanbalbicak" target="_blank"><img src="https://api.iconify.design/logos/linkedin-icon.svg" alt="LinkedIn" height="30" width="30"></a>
-  <a href="https://hasanbalbicak.me" target="_blank"><img src="https://api.iconify.design/octicon/browser-24.svg" alt="Knife pierced in a honey pot logo" height="30" width="30"></a>
+  <a href="https://hasanbalbicak.me" target="_blank"><img src="https://api.iconify.design/icon-park/browser.svg" alt="Knife pierced in a honey pot logo" height="30" width="30"></a>
   <a href="mailto:hasanhuseyinbalbicak@gmail.com"><img src="https://api.iconify.design/logos/google-gmail.svg" alt="Mail Envelope" height="30" width="auto"></a>
 </p>
 
