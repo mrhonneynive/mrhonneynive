@@ -16,9 +16,9 @@
 ***
 
 <div align="center">
-  [![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhonneynive&count_private=true&show_icons=true&theme=transparent)](https://github.com/mrhonneynive/github-readme-stats)
+[![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhonneynive&count_private=true&show_icons=true&theme=transparent)]<!-- (https://github.com/mrhonneynive/github-readme-stats) -->
 
-  ![](https://komarev.com/ghpvc/?username=mrhonneynive)
+![](https://komarev.com/ghpvc/?username=mrhonneynive)
 </div>
 <!--
 **mrhonneynive/mrhonneynive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
