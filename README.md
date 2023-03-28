@@ -27,8 +27,8 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/hasanbalbicak"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="30"></a>
-  <a href="https://hasanbalbicak.me"><img src="https://github.com/mrhonneynive/mrhonneynive.github.io/blob/main/images/honneynive-logo.jpg?raw=true" alt="Knife pierced in a honey pot logo" height="30" width="30"></a>
-  <a href="mailto:hasanhuseyinbalbicak@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Mail Envelope" height="30" width="auto"></a>
+  <a href="https://hasanbalbicak.me"><img src="https://github.com/mrhonneynive/mrhonneynive.github.io/blob/main/images/honneynive-logo.jpg?raw=true" alt="Knife pierced in a honey pot logo" height="35" width="30"></a>
+  <a href="mailto:hasanhuseyinbalbicak@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Mail Envelope" height="40" width="auto"></a>
 </p>
 
 ***
