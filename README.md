@@ -4,8 +4,7 @@
 
 <h2>Currently Learning</h2>
 
-<img src="https://api.iconify.design/logos/javascript.svg" alt="JavaScript" height="30" width="30" align="center">
-
+<img src="https://api.iconify.design/logos/javascript.svg" alt="JavaScript" height="30" width="30" margin-left="auto" margin-right="auto">
 
 ***
 
