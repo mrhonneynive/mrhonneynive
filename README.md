@@ -6,6 +6,8 @@
 
 <p align="center">
   <img src="https://api.iconify.design/logos/javascript.svg" alt="JavaScript" height="30" width="30">
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" height="30" width="auto">
+  
 </p>
 ***
 
