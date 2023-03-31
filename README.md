@@ -2,6 +2,12 @@
 
 ***
 
+<h2 align="center">About Me</h2>
+
+<p align="center">Passionate about exploring cutting-edge technologies that can be leveraged to solve real-life problems.</p>
+
+***
+
 <h2 align="center">Currently Learning</h2>
 
 <p align="center">
