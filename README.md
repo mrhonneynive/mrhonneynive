@@ -33,8 +33,8 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/hasanbalbicak" target="_blank"><img src="https://api.iconify.design/skill-icons/linkedin.svg" alt="LinkedIn" height="40" width="40"></a>
+  <a href="mailto:hasanhuseyinbalbicak@gmail.com"><img src="https://api.iconify.design/logos/google-gmail.svg" alt="Mail Envelope" height="40" width="auto"></a>  
   <a href="https://hasanbalbicak.me" target="_blank"><img src="https://api.iconify.design/logos/chrome.svg" alt="Knife pierced in a honey pot logo" height="40" width="40"></a>
-  <a href="mailto:hasanhuseyinbalbicak@gmail.com"><img src="https://api.iconify.design/logos/google-gmail.svg" alt="Mail Envelope" height="40" width="auto"></a>
 </p>
 
 ***
