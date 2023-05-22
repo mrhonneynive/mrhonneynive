@@ -17,7 +17,7 @@
   <img src="https://api.iconify.design/skill-icons/graphql-dark.svg" alt="GraphQL" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/typescript.svg" alt="TypeScript" height="40" width="40">
   <img src="https://api.iconify.design/logos/postgresql.svg" alt="PostgreSQL" height="40" width="40">
-  <img src="https://phaser.io/images/logo/logo-download.png" alt="PhaserJS" height="40" width="auto">   
+  <img src="https://www.vectorlogo.zone/logos/phaserio/phaserio-ar21.svg" alt="PhaserJS" height="40" width="auto">   
 </p>
 
 *** 
