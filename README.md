@@ -27,10 +27,10 @@
   <img src="https://api.iconify.design/skill-icons/nodejs-dark.svg" alt="Node.js" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/expressjs-dark.svg" alt="Express.js" height="40" width="40"> 
   <img src="https://api.iconify.design/skill-icons/mongodb.svg" alt="MongoDB" height="40" width="40">
-  <img src="https://api.iconify.design/skill-icons/javascript.svg" alt="JavaScript" height="40" width="40">
+  
   <img src="https://api.iconify.design/vscode-icons/file-type-html.svg" alt="HTML" height="40" width="40">
   <img src="https://api.iconify.design/vscode-icons/file-type-css.svg" alt="CSS" height="40" width="40">
-
+  <img src="https://api.iconify.design/skill-icons/javascript.svg" alt="JavaScript" height="40" width="40">
   <img src="https://api.iconify.design/logos/git-icon.svg" alt="Git" height="40" width="40">
 </p>
 
