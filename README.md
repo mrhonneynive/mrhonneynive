@@ -10,12 +10,17 @@
 
 <p align="center">
   
-  
-  
-  <img src="https://api.iconify.design/skill-icons/graphql-dark.svg" alt="GraphQL" height="40" width="40">
+  <img src="https://api.iconify.design/skill-icons/c.svg" alt="C Language" height="40" width="40">
+  <img src="https://api.iconify.design/devicon/tailwindcss.svg" alt="Tailwind" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/typescript.svg" alt="TypeScript" height="40" width="40">
-  <img src="https://api.iconify.design/logos/postgresql.svg" alt="PostgreSQL" height="40" width="40">
-  <img src="https://www.vectorlogo.zone/logos/phaserio/phaserio-icon.svg" alt="PhaserJS" height="40" width="auto">   
+  <img src="https://api.iconify.design/logos/postgresql.svg" alt="PostgreSQL" height="40" width="40">   
+  <img src="https://api.iconify.design/devicon/socketio.svg" alt="Socket.io" height="40" width="40">
+  <img src="https://api.iconify.design/logos/markdown.svg" alt="Markdown" height="40" width="auto">
+  <img src="https://api.iconify.design/devicon/bash.svg" alt="Bash" height="40" width="40">
+  <img src="https://api.iconify.design/devicon/linux.svg" alt="Linux" height="40" width="40">
+  <img src="https://api.iconify.design/devicon/python.svg" alt="Python" height="40" width="40">
+  <img src="https://api.iconify.design/devicon/php.svg" alt="PHP" height="40" width="40">
+  <img src="https://api.iconify.design/skill-icons/java-dark.svg" alt="Java" height="40" width="40">
 </p>
 
 ---
@@ -27,7 +32,7 @@
   <img src="https://api.iconify.design/skill-icons/nodejs-dark.svg" alt="Node.js" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/expressjs-dark.svg" alt="Express.js" height="40" width="40"> 
   <img src="https://api.iconify.design/skill-icons/mongodb.svg" alt="MongoDB" height="40" width="40">
-  
+
   <img src="https://api.iconify.design/vscode-icons/file-type-html.svg" alt="HTML" height="40" width="40">
   <img src="https://api.iconify.design/vscode-icons/file-type-css.svg" alt="CSS" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/javascript.svg" alt="JavaScript" height="40" width="40">
