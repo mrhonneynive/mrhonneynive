@@ -11,15 +11,15 @@
 <p align="center">
   
   <img src="https://api.iconify.design/skill-icons/c.svg" alt="C Language" height="40" width="40">
-  <img src="https://api.iconify.design/devicon/tailwindcss.svg" alt="Tailwind" height="40" width="40">
+  <img src="https://api.iconify.design/skill-icons/tailwindcss-dark.svg" alt="Tailwind" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/typescript.svg" alt="TypeScript" height="40" width="40">
   <img src="https://api.iconify.design/logos/postgresql.svg" alt="PostgreSQL" height="40" width="40">   
-  <img src="https://api.iconify.design/devicon/socketio.svg" alt="Socket.io" height="40" width="40">
-  <img src="https://api.iconify.design/logos/markdown.svg" alt="Markdown" height="40" width="auto">
-  <img src="https://api.iconify.design/devicon/bash.svg" alt="Bash" height="40" width="40">
-  <img src="https://api.iconify.design/devicon/linux.svg" alt="Linux" height="40" width="40">
-  <img src="https://api.iconify.design/devicon/python.svg" alt="Python" height="40" width="40">
-  <img src="https://api.iconify.design/devicon/php.svg" alt="PHP" height="40" width="40">
+  <img src="https://api.iconify.design/logos/socket-io.svg" alt="Socket.io" height="40" width="40">
+  <img src="https://api.iconify.design/skill-icons/markdown-dark.svg" alt="Markdown" height="40" width="40">
+  <img src="https://api.iconify.design/skill-icons/bash-dark.svg" alt="Bash" height="40" width="40">
+  <img src="https://api.iconify.design/skill-icons/linux-light.svg" alt="Linux" height="40" width="40">
+  <img src="https://api.iconify.design/skill-icons/python-dark.svg" alt="Python" height="40" width="40">
+  <img src="https://api.iconify.design/skill-icons/php-dark.svg" alt="PHP" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/java-dark.svg" alt="Java" height="40" width="40">
 </p>
 
