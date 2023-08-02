@@ -14,7 +14,6 @@
   <img src="https://api.iconify.design/skill-icons/tailwindcss-dark.svg" alt="Tailwind" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/typescript.svg" alt="TypeScript" height="40" width="40">
   <img src="https://api.iconify.design/logos/postgresql.svg" alt="PostgreSQL" height="40" width="40">   
-  <img src="https://api.iconify.design/logos/socket-io.svg" alt="Socket.io" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/markdown-dark.svg" alt="Markdown" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/bash-dark.svg" alt="Bash" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/linux-light.svg" alt="Linux" height="40" width="40">
@@ -23,6 +22,9 @@
   <img src="https://api.iconify.design/skill-icons/php-dark.svg" alt="PHP" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/golang.svg" alt="Go" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/java-dark.svg" alt="Java" height="40" width="40">
+  <img src="https://api.iconify.design/devicon/capacitor.svg" alt="Capacitor" height="40" width="40">
+  <img src="https://api.iconify.design/logos/ionic-icon.svg" alt="Ionic" height="40" width="40">
+  <img src="https://api.iconify.design/logos/socket-io.svg" alt="Socket.io" height="40" width="40">
 </p>
 
 ---
