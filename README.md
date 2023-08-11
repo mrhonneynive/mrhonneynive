@@ -24,7 +24,6 @@
   <img src="https://api.iconify.design/skill-icons/golang.svg" alt="Go" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/java-dark.svg" alt="Java" height="40" width="40">
   <img src="https://api.iconify.design/devicon/capacitor.svg" alt="Capacitor" height="40" width="40">
-  <img src="https://api.iconify.design/logos/ionic-icon.svg" alt="Ionic" height="40" width="40">
   <img src="https://api.iconify.design/logos/socket-io.svg" alt="Socket.io" height="40" width="40">
 </p>
 
