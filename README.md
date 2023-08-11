@@ -13,7 +13,7 @@
   <img src="https://api.iconify.design/skill-icons/c.svg" alt="C Language" height="40" width="40">
   <img src="https://api.iconify.design/devicon/sqlite.svg" alt="SQLite" height="40" width="40">
   <img src="https://api.iconify.design/logos/postgresql.svg" alt="PostgreSQL" height="40" width="40">   
-  <img src="https://api.iconify.design/devicon/mysql-wordmark.svg" alt="MySQL" height="40" width="40">
+  <img src="https://api.iconify.design/skill-icons/mysql-light.svg" alt="MySQL" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/tailwindcss-dark.svg" alt="Tailwind" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/typescript.svg" alt="TypeScript" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/markdown-dark.svg" alt="Markdown" height="40" width="40">
