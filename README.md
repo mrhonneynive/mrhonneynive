@@ -15,7 +15,6 @@
   <img src="https://api.iconify.design/skill-icons/mysql-light.svg" alt="MySQL" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/postgresql-dark.svg" alt="PostgreSQL" height="40" width="40">   
   <img src="https://api.iconify.design/skill-icons/tailwindcss-dark.svg" alt="Tailwind" height="40" width="40">
-  <img src="https://api.iconify.design/skill-icons/typescript.svg" alt="TypeScript" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/markdown-dark.svg" alt="Markdown" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/bash-dark.svg" alt="Bash" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/linux-light.svg" alt="Linux" height="40" width="40">
@@ -31,8 +30,8 @@
 <p align="center">
   <img src="https://api.iconify.design/skill-icons/svelte.svg" alt="Svelte" height="40" width="40">
 
-  <img src="https://api.iconify.design/vscode-icons/file-type-html.svg" alt="HTML" height="40" width="40">
-  <img src="https://api.iconify.design/vscode-icons/file-type-css.svg" alt="CSS" height="40" width="40">
+  <img src="https://api.iconify.design/skill-icons/html.svg" alt="HTML" height="40" width="40">
+  <img src="https://api.iconify.design/skill-icons/css.svg" alt="CSS" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/javascript.svg" alt="JavaScript" height="40" width="40">
   <img src="https://api.iconify.design/logos/git-icon.svg" alt="Git" height="40" width="40">
 </p>
