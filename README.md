@@ -12,18 +12,15 @@
   
   <img src="https://api.iconify.design/skill-icons/c.svg" alt="C Language" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/sqlite.svg" alt="SQLite" height="40" width="40">
-  <img src="https://api.iconify.design/skill-icons/postgresql-dark.svg" alt="PostgreSQL" height="40" width="40">   
   <img src="https://api.iconify.design/skill-icons/mysql-light.svg" alt="MySQL" height="40" width="40">
+  <img src="https://api.iconify.design/skill-icons/postgresql-dark.svg" alt="PostgreSQL" height="40" width="40">   
   <img src="https://api.iconify.design/skill-icons/tailwindcss-dark.svg" alt="Tailwind" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/typescript.svg" alt="TypeScript" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/markdown-dark.svg" alt="Markdown" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/bash-dark.svg" alt="Bash" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/linux-light.svg" alt="Linux" height="40" width="40">
   <img src="https://api.iconify.design/devicon/vim.svg" alt="Vim" height="40" width="40">
-  <img src="https://api.iconify.design/skill-icons/php-dark.svg" alt="PHP" height="40" width="40">
-  <img src="https://api.iconify.design/skill-icons/golang.svg" alt="Go" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/java-dark.svg" alt="Java" height="40" width="40">
-  <img src="https://api.iconify.design/devicon/capacitor.svg" alt="Capacitor" height="40" width="40">
   <img src="https://api.iconify.design/logos/socket-io.svg" alt="Socket.io" height="40" width="40">
 </p>
 
@@ -32,9 +29,6 @@
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://api.iconify.design/skill-icons/django.svg" alt="Django" height="40" width="40">
-  <img src="https://api.iconify.design/skill-icons/python-dark.svg" alt="Python" height="40" width="40">
-
   <img src="https://api.iconify.design/skill-icons/svelte.svg" alt="Svelte" height="40" width="40">
 
   <img src="https://api.iconify.design/vscode-icons/file-type-html.svg" alt="HTML" height="40" width="40">
