@@ -33,7 +33,7 @@
   <img src="https://api.iconify.design/skill-icons/html.svg" alt="HTML" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/css.svg" alt="CSS" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/javascript.svg" alt="JavaScript" height="40" width="40">
-  <img src="https://api.iconify.design/logos/git-icon.svg" alt="Git" height="40" width="40">
+  <img src="https://api.iconify.design/skill-icons/git.svg" alt="Git" height="40" width="40">
 </p>
 
 ---
