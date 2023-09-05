@@ -18,7 +18,6 @@
   <img src="https://api.iconify.design/skill-icons/markdown-dark.svg" alt="Markdown" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/bash-dark.svg" alt="Bash" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/linux-light.svg" alt="Linux" height="40" width="40">
-  <img src="https://api.iconify.design/devicon/vim.svg" alt="Vim" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/java-dark.svg" alt="Java" height="40" width="40">
   <img src="https://api.iconify.design/logos/socket-io.svg" alt="Socket.io" height="40" width="40">
 </p>
