@@ -14,15 +14,10 @@
   <img src="https://api.iconify.design/skill-icons/maven-light.svg" alt="Maven" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/mysql-light.svg" alt="MySQL" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/spring-light.svg"  alt="Spring" height="40" width = "40">
-  <img src="https://api.iconify.design/skill-icons/svelte.svg" alt="Svelte" height="40" width="40">
-  <!-- <img src="https://api.iconify.design/skill-icons/sqlite.svg" alt="SQLite" height="40" width="40"> -->
-  <!-- <img src="https://api.iconify.design/skill-icons/postgresql-dark.svg" alt="PostgreSQL" height="40" width="40">    -->
-  <img src="https://api.iconify.design/skill-icons/tailwindcss-dark.svg" alt="Tailwind" height="40" width="40">
-  <img src="https://api.iconify.design/skill-icons/markdown-dark.svg" alt="Markdown" height="40" width="40">
-  <img src="https://api.iconify.design/skill-icons/bash-dark.svg" alt="Bash" height="40" width="40">
-  <img src="https://api.iconify.design/skill-icons/linux-light.svg" alt="Linux" height="40" width="40">
   
-  <!-- <img src="https://api.iconify.design/logos/socket-io.svg" alt="Socket.io" height="40" width="40"> -->
+  <img src="https://api.iconify.design/skill-icons/postgresql-dark.svg" alt="PostgreSQL" height="40" width="40">
+  <img src="https://api.iconify.design/skill-icons/tailwindcss-dark.svg" alt="Tailwind" height="40" width="40">
+  <img src="https://api.iconify.design/skill-icons/bash-dark.svg" alt="Bash" height="40" width="40">
 
 </p>
 
