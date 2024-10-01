@@ -1,13 +1,4 @@
-<style>
-  h1, h2, p, div {
-    text-align: center;
-  }
-
-  img {
-    height: 40;
-    width: 40;
-  }
-</style>
+<link rel="stylesheet" type="text/css" href="styles.css">
 
 <h1>Hasan Balbıçak | Software Engineering Sophomore</h1>
 
@@ -20,15 +11,12 @@
 <h2>Currently Learning</h2>
 
 <p>
-  
-  <img src="https://api.iconify.design/skill-icons/laravel-dark.svg" alt="Laravel" >
-
+  <img src="https://api.iconify.design/skill-icons/laravel-dark.svg" alt="Laravel">
 </p>
 
 ---
 
 <h2>Tech Stack</h2>
-
 <p>
   <img src="https://api.iconify.design/skill-icons/html.svg" alt="HTML">
   <img src="https://api.iconify.design/skill-icons/css.svg" alt="CSS">
@@ -36,7 +24,6 @@
   <img src="https://api.iconify.design/skill-icons/javascript.svg" alt="JavaScript">
   <img src="https://api.iconify.design/skill-icons/git.svg" alt="Git">
   <img src="https://api.iconify.design/skill-icons/bash-dark.svg" alt="Bash">
-
 </p>
 
 ---
