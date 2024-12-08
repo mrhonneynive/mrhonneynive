@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://api.iconify.design/skill-icons/nextjs-light.svg" alt="Next.js" height="40" width="40">
-  <img src="https://api.iconify.design/skill-icons/socket-io.svg" alt="Socket.io" height="40" width="40">
+  <img src="https://api.iconify.design/skill-icons/socketio.svg" alt="Socket.io" height="40" width="40">
 </p>
 
 ---
@@ -18,13 +18,13 @@
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
+  <img src="https://api.iconify.design/skill-icons/react-dark.svg" alt="React.js" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/expressjs-dark.svg" alt="Express.js" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/nodejs-dark.svg" alt="Node.js" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/typescript.svg" alt="TypeScript" height="40" width="40">
-  <img src="https://api.iconify.design/skill-icons/react-dark.svg" alt="React.js" height="40" width="40">
+  <img src="https://api.iconify.design/skill-icons/tailwindcss-dark.svg" alt="Tailwind" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/html.svg" alt="HTML" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/css.svg" alt="CSS" height="40" width="40">
-  <img src="https://api.iconify.design/skill-icons/tailwindcss-dark.svg" alt="Tailwind" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/javascript.svg" alt="JavaScript" height="40" width="40">
   <img src="https://api.iconify.design/skill-icons/git.svg" alt="Git" height="40" width="40">
 </p>
