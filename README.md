@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://api.iconify.design/skill-icons/nextjs-light.svg" alt="Next.js" height="40" width="40">
-  <img src="https://api.iconify.design/skill-icons/socketio.svg" alt="Socket.io" height="40" width="40">
+  <img src="https://api.iconify.design/logos/socket-io.svg" alt="Socket.io" height="40" width="40">
 </p>
 
 ---
