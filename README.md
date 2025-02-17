@@ -15,7 +15,7 @@
   <a href="mailto:hasanhuseyinbalbicak@gmail.com">
     <img src="https://api.iconify.design/logos/google-gmail.svg" alt="Mail Envelope" height="40" width="40">
   </a>  
-  <a href="https://hasanbalbicak.me" target="_blank">
+  <!-- <a href="https://hasanbalbicak.me" target="_blank">
     <img src="https://api.iconify.design/logos/chrome.svg" alt="Website" height="40" width="40">
-  </a>
+  </a> -->
 </p>
