@@ -1,4 +1,4 @@
-<h1 align="center">Hasan Balbıçak | Software Engineering Sophomore</h1>
+<h1 align="center">Hasan Balbıçak | Software Engineering Junior</h1>
 
 <!-- <h2 align="center">About Me</h2> -->
 
